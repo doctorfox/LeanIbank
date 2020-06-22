@@ -13,4 +13,6 @@ In Firefox:
 
 * Click "Load Temporary Add-on", then select any file in your extension's directory.
 
-This is just a development version and may be published in the Firefox extensions repository for ease of installation.
+This is just a development version.
+
+You can install this from the Mozilla Firefox add-on gallery here https://addons.mozilla.org/addon/leanibank/
